@@ -111,6 +111,13 @@ Interact with the chatbot by typing queries like:<br>
 
 ## 📸 Screenshots
 📷 Include screenshots of your conversation for submission. 
+file:///home/hp/Pictures/Screenshots/Screenshot%20from%202025-06-06%2014-23-53.png
+
+video clip 
+
+file:///home/hp/Videos/Screencasts/Screencast%20from%2006-06-2025%2002:25:50%20ALASIRI.webm
+
+
 
 Suggested:
 - Welcome message
